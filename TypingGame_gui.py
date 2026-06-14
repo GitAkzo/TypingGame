@@ -8,7 +8,7 @@ class JogoDigitacao(ctk.CTk):
         super().__init__()
         
         # Configurações da Janela
-        self.title("Speed Typing Game")
+        self.title("Typing Game")
         self.geometry("500x450")
         ctk.set_appearance_mode("System")
         ctk.set_default_color_theme("blue")
