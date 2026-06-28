@@ -1,5 +1,5 @@
 # ⌨️ Speed Typing Game - Refactoring Project
-
+![Preview do Projeto](./typing-game.webp)
 Um jogo de digitação desenvolvido em Python para calcular a velocidade (WPM - Words Per Minute) e a precisão do usuário ao digitar palavras. 
 
 Este repositório documenta a evolução do projeto, apresentando desde a versão inicial em linha de comando (CLI) até a versão moderna refatorada com Interface Gráfica (GUI) orientada a eventos.
